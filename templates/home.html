@@ -1,0 +1,33 @@
+{%extends "layout.html"%} {%block title%}
+<title>Home Page</title>
+{%endblock title%} {%block content%}
+<h1>Pokemon Cards</h1>
+<div class="container">
+  <div class="row">
+    {%for datum in data%}
+    <div class="col-4">
+      <!-- Card element starts here -->
+      <div class="card" style="width: 18rem">
+        <img
+        src="https://pokeres.bastionbot.org/images/pokemon/{{datum["number"]}}.png"
+        class="card-img-top" alt="Pokemon image" />
+        <hr />
+        <div class="card-body">
+          {%for type in datum["types"]%}
+          <img
+            src="{{url_for('static', filename='type_images/{}.png'.format(type))}}"
+            class="img-fluid type"
+            alt="Type image"
+          />
+          {%endfor%}
+          <h5 class="card-title">{{datum["name"]}}</h5>
+          <p class="card-text">Type: {{datum["types"]}}</p>
+          <h6>Stats</h6>
+          <p>{{datum["stats"]}}</p>
+        </div>
+      </div>
+      <!-- Card element stops here -->
+    </div>
+      {%endfor%} {%endblock content%}
+  </div>
+</div>

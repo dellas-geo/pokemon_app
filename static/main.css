@@ -1,0 +1,35 @@
+.rotate {
+  -webkit-animation: spin 8s linear infinite;
+  -moz-animation: spin 8s linear infinite;
+  animation: spin 8s linear infinite;
+}
+@-moz-keyframes spin {
+  100% {
+    -moz-transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+@keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 2px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+}
+
+.type {
+  width: 50px;
+  height: auto;
+}
