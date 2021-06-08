@@ -13,6 +13,7 @@
         class="card-img-top" alt="Pokemon image" />
         <hr />
         <div class="card-body">
+          <span class="card-title">{{datum["name"]}}</span>
           {%for type in datum["types"]%}
           <img
             src="{{url_for('static', filename='type_images/{}.png'.format(type))}}"
@@ -20,8 +21,11 @@
             alt="Type image"
           />
           {%endfor%}
-          <h5 class="card-title">{{datum["name"]}}</h5>
-          <p class="card-text">Type: {{datum["types"]}}</p>
+          <p class="card-text">Type:
+          {%for type in datum["types"]%}
+          <span">{{type}}</span>
+          {%endfor%}
+        </p>
           <h6>Stats</h6>
           <p>{{datum["stats"]}}</p>
         </div>
