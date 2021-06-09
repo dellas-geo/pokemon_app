@@ -21,10 +21,13 @@ for i in range(1, 152):
 i = 1
 for dict in pokemon_info_list:
     dict["number"] = i
-    i +=1
+    i += 1
     dict["stats"] = {
         stat_dict["stat"]["name"]: stat_dict["base_stat"] for stat_dict in dict["stats"]
     }
+    dict["name"] = dict["name"].capitalize()
+    dict["types"] = [type.capitalize() for type in dict["types"]]
+    
 
 with open("data.json", "w", encoding="utf-8") as f:
     json.dump(pokemon_info_list, f, ensure_ascii=False, indent=2)

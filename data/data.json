@@ -1,9 +1,9 @@
 [
   {
-    "name": "bulbasaur",
+    "name": "Bulbasaur",
     "types": [
-      "grass",
-      "poison"
+      "Grass",
+      "Poison"
     ],
     "stats": {
       "hp": 45,
@@ -16,10 +16,10 @@
     "number": 1
   },
   {
-    "name": "ivysaur",
+    "name": "Ivysaur",
     "types": [
-      "grass",
-      "poison"
+      "Grass",
+      "Poison"
     ],
     "stats": {
       "hp": 60,
@@ -32,10 +32,10 @@
     "number": 2
   },
   {
-    "name": "venusaur",
+    "name": "Venusaur",
     "types": [
-      "grass",
-      "poison"
+      "Grass",
+      "Poison"
     ],
     "stats": {
       "hp": 80,
@@ -48,9 +48,9 @@
     "number": 3
   },
   {
-    "name": "charmander",
+    "name": "Charmander",
     "types": [
-      "fire"
+      "Fire"
     ],
     "stats": {
       "hp": 39,
@@ -63,9 +63,9 @@
     "number": 4
   },
   {
-    "name": "charmeleon",
+    "name": "Charmeleon",
     "types": [
-      "fire"
+      "Fire"
     ],
     "stats": {
       "hp": 58,
@@ -78,10 +78,10 @@
     "number": 5
   },
   {
-    "name": "charizard",
+    "name": "Charizard",
     "types": [
-      "fire",
-      "flying"
+      "Fire",
+      "Flying"
     ],
     "stats": {
       "hp": 78,
@@ -94,9 +94,9 @@
     "number": 6
   },
   {
-    "name": "squirtle",
+    "name": "Squirtle",
     "types": [
-      "water"
+      "Water"
     ],
     "stats": {
       "hp": 44,
@@ -109,9 +109,9 @@
     "number": 7
   },
   {
-    "name": "wartortle",
+    "name": "Wartortle",
     "types": [
-      "water"
+      "Water"
     ],
     "stats": {
       "hp": 59,
@@ -124,9 +124,9 @@
     "number": 8
   },
   {
-    "name": "blastoise",
+    "name": "Blastoise",
     "types": [
-      "water"
+      "Water"
     ],
     "stats": {
       "hp": 79,
@@ -139,9 +139,9 @@
     "number": 9
   },
   {
-    "name": "caterpie",
+    "name": "Caterpie",
     "types": [
-      "bug"
+      "Bug"
     ],
     "stats": {
       "hp": 45,
@@ -154,9 +154,9 @@
     "number": 10
   },
   {
-    "name": "metapod",
+    "name": "Metapod",
     "types": [
-      "bug"
+      "Bug"
     ],
     "stats": {
       "hp": 50,
@@ -169,10 +169,10 @@
     "number": 11
   },
   {
-    "name": "butterfree",
+    "name": "Butterfree",
     "types": [
-      "bug",
-      "flying"
+      "Bug",
+      "Flying"
     ],
     "stats": {
       "hp": 60,
@@ -185,10 +185,10 @@
     "number": 12
   },
   {
-    "name": "weedle",
+    "name": "Weedle",
     "types": [
-      "bug",
-      "poison"
+      "Bug",
+      "Poison"
     ],
     "stats": {
       "hp": 40,
@@ -201,10 +201,10 @@
     "number": 13
   },
   {
-    "name": "kakuna",
+    "name": "Kakuna",
     "types": [
-      "bug",
-      "poison"
+      "Bug",
+      "Poison"
     ],
     "stats": {
       "hp": 45,
@@ -217,10 +217,10 @@
     "number": 14
   },
   {
-    "name": "beedrill",
+    "name": "Beedrill",
     "types": [
-      "bug",
-      "poison"
+      "Bug",
+      "Poison"
     ],
     "stats": {
       "hp": 65,
@@ -233,10 +233,10 @@
     "number": 15
   },
   {
-    "name": "pidgey",
+    "name": "Pidgey",
     "types": [
-      "normal",
-      "flying"
+      "Normal",
+      "Flying"
     ],
     "stats": {
       "hp": 40,
@@ -249,10 +249,10 @@
     "number": 16
   },
   {
-    "name": "pidgeotto",
+    "name": "Pidgeotto",
     "types": [
-      "normal",
-      "flying"
+      "Normal",
+      "Flying"
     ],
     "stats": {
       "hp": 63,
@@ -265,10 +265,10 @@
     "number": 17
   },
   {
-    "name": "pidgeot",
+    "name": "Pidgeot",
     "types": [
-      "normal",
-      "flying"
+      "Normal",
+      "Flying"
     ],
     "stats": {
       "hp": 83,
@@ -281,9 +281,9 @@
     "number": 18
   },
   {
-    "name": "rattata",
+    "name": "Rattata",
     "types": [
-      "normal"
+      "Normal"
     ],
     "stats": {
       "hp": 30,
@@ -296,9 +296,9 @@
     "number": 19
   },
   {
-    "name": "raticate",
+    "name": "Raticate",
     "types": [
-      "normal"
+      "Normal"
     ],
     "stats": {
       "hp": 55,
@@ -311,10 +311,10 @@
     "number": 20
   },
   {
-    "name": "spearow",
+    "name": "Spearow",
     "types": [
-      "normal",
-      "flying"
+      "Normal",
+      "Flying"
     ],
     "stats": {
       "hp": 40,
@@ -327,10 +327,10 @@
     "number": 21
   },
   {
-    "name": "fearow",
+    "name": "Fearow",
     "types": [
-      "normal",
-      "flying"
+      "Normal",
+      "Flying"
     ],
     "stats": {
       "hp": 65,
@@ -343,9 +343,9 @@
     "number": 22
   },
   {
-    "name": "ekans",
+    "name": "Ekans",
     "types": [
-      "poison"
+      "Poison"
     ],
     "stats": {
       "hp": 35,
@@ -358,9 +358,9 @@
     "number": 23
   },
   {
-    "name": "arbok",
+    "name": "Arbok",
     "types": [
-      "poison"
+      "Poison"
     ],
     "stats": {
       "hp": 60,
@@ -373,9 +373,9 @@
     "number": 24
   },
   {
-    "name": "pikachu",
+    "name": "Pikachu",
     "types": [
-      "electric"
+      "Electric"
     ],
     "stats": {
       "hp": 35,
@@ -388,9 +388,9 @@
     "number": 25
   },
   {
-    "name": "raichu",
+    "name": "Raichu",
     "types": [
-      "electric"
+      "Electric"
     ],
     "stats": {
       "hp": 60,
@@ -403,9 +403,9 @@
     "number": 26
   },
   {
-    "name": "sandshrew",
+    "name": "Sandshrew",
     "types": [
-      "ground"
+      "Ground"
     ],
     "stats": {
       "hp": 50,
@@ -418,9 +418,9 @@
     "number": 27
   },
   {
-    "name": "sandslash",
+    "name": "Sandslash",
     "types": [
-      "ground"
+      "Ground"
     ],
     "stats": {
       "hp": 75,
@@ -433,9 +433,9 @@
     "number": 28
   },
   {
-    "name": "nidoran-f",
+    "name": "Nidoran-f",
     "types": [
-      "poison"
+      "Poison"
     ],
     "stats": {
       "hp": 55,
@@ -448,9 +448,9 @@
     "number": 29
   },
   {
-    "name": "nidorina",
+    "name": "Nidorina",
     "types": [
-      "poison"
+      "Poison"
     ],
     "stats": {
       "hp": 70,
@@ -463,10 +463,10 @@
     "number": 30
   },
   {
-    "name": "nidoqueen",
+    "name": "Nidoqueen",
     "types": [
-      "poison",
-      "ground"
+      "Poison",
+      "Ground"
     ],
     "stats": {
       "hp": 90,
@@ -479,9 +479,9 @@
     "number": 31
   },
   {
-    "name": "nidoran-m",
+    "name": "Nidoran-m",
     "types": [
-      "poison"
+      "Poison"
     ],
     "stats": {
       "hp": 46,
@@ -494,9 +494,9 @@
     "number": 32
   },
   {
-    "name": "nidorino",
+    "name": "Nidorino",
     "types": [
-      "poison"
+      "Poison"
     ],
     "stats": {
       "hp": 61,
@@ -509,10 +509,10 @@
     "number": 33
   },
   {
-    "name": "nidoking",
+    "name": "Nidoking",
     "types": [
-      "poison",
-      "ground"
+      "Poison",
+      "Ground"
     ],
     "stats": {
       "hp": 81,
@@ -525,9 +525,9 @@
     "number": 34
   },
   {
-    "name": "clefairy",
+    "name": "Clefairy",
     "types": [
-      "fairy"
+      "Fairy"
     ],
     "stats": {
       "hp": 70,
@@ -540,9 +540,9 @@
     "number": 35
   },
   {
-    "name": "clefable",
+    "name": "Clefable",
     "types": [
-      "fairy"
+      "Fairy"
     ],
     "stats": {
       "hp": 95,
@@ -555,9 +555,9 @@
     "number": 36
   },
   {
-    "name": "vulpix",
+    "name": "Vulpix",
     "types": [
-      "fire"
+      "Fire"
     ],
     "stats": {
       "hp": 38,
@@ -570,9 +570,9 @@
     "number": 37
   },
   {
-    "name": "ninetales",
+    "name": "Ninetales",
     "types": [
-      "fire"
+      "Fire"
     ],
     "stats": {
       "hp": 73,
@@ -585,10 +585,10 @@
     "number": 38
   },
   {
-    "name": "jigglypuff",
+    "name": "Jigglypuff",
     "types": [
-      "normal",
-      "fairy"
+      "Normal",
+      "Fairy"
     ],
     "stats": {
       "hp": 115,
@@ -601,10 +601,10 @@
     "number": 39
   },
   {
-    "name": "wigglytuff",
+    "name": "Wigglytuff",
     "types": [
-      "normal",
-      "fairy"
+      "Normal",
+      "Fairy"
     ],
     "stats": {
       "hp": 140,
@@ -617,10 +617,10 @@
     "number": 40
   },
   {
-    "name": "zubat",
+    "name": "Zubat",
     "types": [
-      "poison",
-      "flying"
+      "Poison",
+      "Flying"
     ],
     "stats": {
       "hp": 40,
@@ -633,10 +633,10 @@
     "number": 41
   },
   {
-    "name": "golbat",
+    "name": "Golbat",
     "types": [
-      "poison",
-      "flying"
+      "Poison",
+      "Flying"
     ],
     "stats": {
       "hp": 75,
@@ -649,10 +649,10 @@
     "number": 42
   },
   {
-    "name": "oddish",
+    "name": "Oddish",
     "types": [
-      "grass",
-      "poison"
+      "Grass",
+      "Poison"
     ],
     "stats": {
       "hp": 45,
@@ -665,10 +665,10 @@
     "number": 43
   },
   {
-    "name": "gloom",
+    "name": "Gloom",
     "types": [
-      "grass",
-      "poison"
+      "Grass",
+      "Poison"
     ],
     "stats": {
       "hp": 60,
@@ -681,10 +681,10 @@
     "number": 44
   },
   {
-    "name": "vileplume",
+    "name": "Vileplume",
     "types": [
-      "grass",
-      "poison"
+      "Grass",
+      "Poison"
     ],
     "stats": {
       "hp": 75,
@@ -697,10 +697,10 @@
     "number": 45
   },
   {
-    "name": "paras",
+    "name": "Paras",
     "types": [
-      "bug",
-      "grass"
+      "Bug",
+      "Grass"
     ],
     "stats": {
       "hp": 35,
@@ -713,10 +713,10 @@
     "number": 46
   },
   {
-    "name": "parasect",
+    "name": "Parasect",
     "types": [
-      "bug",
-      "grass"
+      "Bug",
+      "Grass"
     ],
     "stats": {
       "hp": 60,
@@ -729,10 +729,10 @@
     "number": 47
   },
   {
-    "name": "venonat",
+    "name": "Venonat",
     "types": [
-      "bug",
-      "poison"
+      "Bug",
+      "Poison"
     ],
     "stats": {
       "hp": 60,
@@ -745,10 +745,10 @@
     "number": 48
   },
   {
-    "name": "venomoth",
+    "name": "Venomoth",
     "types": [
-      "bug",
-      "poison"
+      "Bug",
+      "Poison"
     ],
     "stats": {
       "hp": 70,
@@ -761,9 +761,9 @@
     "number": 49
   },
   {
-    "name": "diglett",
+    "name": "Diglett",
     "types": [
-      "ground"
+      "Ground"
     ],
     "stats": {
       "hp": 10,
@@ -776,9 +776,9 @@
     "number": 50
   },
   {
-    "name": "dugtrio",
+    "name": "Dugtrio",
     "types": [
-      "ground"
+      "Ground"
     ],
     "stats": {
       "hp": 35,
@@ -791,9 +791,9 @@
     "number": 51
   },
   {
-    "name": "meowth",
+    "name": "Meowth",
     "types": [
-      "normal"
+      "Normal"
     ],
     "stats": {
       "hp": 40,
@@ -806,9 +806,9 @@
     "number": 52
   },
   {
-    "name": "persian",
+    "name": "Persian",
     "types": [
-      "normal"
+      "Normal"
     ],
     "stats": {
       "hp": 65,
@@ -821,9 +821,9 @@
     "number": 53
   },
   {
-    "name": "psyduck",
+    "name": "Psyduck",
     "types": [
-      "water"
+      "Water"
     ],
     "stats": {
       "hp": 50,
@@ -836,9 +836,9 @@
     "number": 54
   },
   {
-    "name": "golduck",
+    "name": "Golduck",
     "types": [
-      "water"
+      "Water"
     ],
     "stats": {
       "hp": 80,
@@ -851,9 +851,9 @@
     "number": 55
   },
   {
-    "name": "mankey",
+    "name": "Mankey",
     "types": [
-      "fighting"
+      "Fighting"
     ],
     "stats": {
       "hp": 40,
@@ -866,9 +866,9 @@
     "number": 56
   },
   {
-    "name": "primeape",
+    "name": "Primeape",
     "types": [
-      "fighting"
+      "Fighting"
     ],
     "stats": {
       "hp": 65,
@@ -881,9 +881,9 @@
     "number": 57
   },
   {
-    "name": "growlithe",
+    "name": "Growlithe",
     "types": [
-      "fire"
+      "Fire"
     ],
     "stats": {
       "hp": 55,
@@ -896,9 +896,9 @@
     "number": 58
   },
   {
-    "name": "arcanine",
+    "name": "Arcanine",
     "types": [
-      "fire"
+      "Fire"
     ],
     "stats": {
       "hp": 90,
@@ -911,9 +911,9 @@
     "number": 59
   },
   {
-    "name": "poliwag",
+    "name": "Poliwag",
     "types": [
-      "water"
+      "Water"
     ],
     "stats": {
       "hp": 40,
@@ -926,9 +926,9 @@
     "number": 60
   },
   {
-    "name": "poliwhirl",
+    "name": "Poliwhirl",
     "types": [
-      "water"
+      "Water"
     ],
     "stats": {
       "hp": 65,
@@ -941,10 +941,10 @@
     "number": 61
   },
   {
-    "name": "poliwrath",
+    "name": "Poliwrath",
     "types": [
-      "water",
-      "fighting"
+      "Water",
+      "Fighting"
     ],
     "stats": {
       "hp": 90,
@@ -957,9 +957,9 @@
     "number": 62
   },
   {
-    "name": "abra",
+    "name": "Abra",
     "types": [
-      "psychic"
+      "Psychic"
     ],
     "stats": {
       "hp": 25,
@@ -972,9 +972,9 @@
     "number": 63
   },
   {
-    "name": "kadabra",
+    "name": "Kadabra",
     "types": [
-      "psychic"
+      "Psychic"
     ],
     "stats": {
       "hp": 40,
@@ -987,9 +987,9 @@
     "number": 64
   },
   {
-    "name": "alakazam",
+    "name": "Alakazam",
     "types": [
-      "psychic"
+      "Psychic"
     ],
     "stats": {
       "hp": 55,
@@ -1002,9 +1002,9 @@
     "number": 65
   },
   {
-    "name": "machop",
+    "name": "Machop",
     "types": [
-      "fighting"
+      "Fighting"
     ],
     "stats": {
       "hp": 70,
@@ -1017,9 +1017,9 @@
     "number": 66
   },
   {
-    "name": "machoke",
+    "name": "Machoke",
     "types": [
-      "fighting"
+      "Fighting"
     ],
     "stats": {
       "hp": 80,
@@ -1032,9 +1032,9 @@
     "number": 67
   },
   {
-    "name": "machamp",
+    "name": "Machamp",
     "types": [
-      "fighting"
+      "Fighting"
     ],
     "stats": {
       "hp": 90,
@@ -1047,10 +1047,10 @@
     "number": 68
   },
   {
-    "name": "bellsprout",
+    "name": "Bellsprout",
     "types": [
-      "grass",
-      "poison"
+      "Grass",
+      "Poison"
     ],
     "stats": {
       "hp": 50,
@@ -1063,10 +1063,10 @@
     "number": 69
   },
   {
-    "name": "weepinbell",
+    "name": "Weepinbell",
     "types": [
-      "grass",
-      "poison"
+      "Grass",
+      "Poison"
     ],
     "stats": {
       "hp": 65,
@@ -1079,10 +1079,10 @@
     "number": 70
   },
   {
-    "name": "victreebel",
+    "name": "Victreebel",
     "types": [
-      "grass",
-      "poison"
+      "Grass",
+      "Poison"
     ],
     "stats": {
       "hp": 80,
@@ -1095,10 +1095,10 @@
     "number": 71
   },
   {
-    "name": "tentacool",
+    "name": "Tentacool",
     "types": [
-      "water",
-      "poison"
+      "Water",
+      "Poison"
     ],
     "stats": {
       "hp": 40,
@@ -1111,10 +1111,10 @@
     "number": 72
   },
   {
-    "name": "tentacruel",
+    "name": "Tentacruel",
     "types": [
-      "water",
-      "poison"
+      "Water",
+      "Poison"
     ],
     "stats": {
       "hp": 80,
@@ -1127,10 +1127,10 @@
     "number": 73
   },
   {
-    "name": "geodude",
+    "name": "Geodude",
     "types": [
-      "rock",
-      "ground"
+      "Rock",
+      "Ground"
     ],
     "stats": {
       "hp": 40,
@@ -1143,10 +1143,10 @@
     "number": 74
   },
   {
-    "name": "graveler",
+    "name": "Graveler",
     "types": [
-      "rock",
-      "ground"
+      "Rock",
+      "Ground"
     ],
     "stats": {
       "hp": 55,
@@ -1159,10 +1159,10 @@
     "number": 75
   },
   {
-    "name": "golem",
+    "name": "Golem",
     "types": [
-      "rock",
-      "ground"
+      "Rock",
+      "Ground"
     ],
     "stats": {
       "hp": 80,
@@ -1175,9 +1175,9 @@
     "number": 76
   },
   {
-    "name": "ponyta",
+    "name": "Ponyta",
     "types": [
-      "fire"
+      "Fire"
     ],
     "stats": {
       "hp": 50,
@@ -1190,9 +1190,9 @@
     "number": 77
   },
   {
-    "name": "rapidash",
+    "name": "Rapidash",
     "types": [
-      "fire"
+      "Fire"
     ],
     "stats": {
       "hp": 65,
@@ -1205,10 +1205,10 @@
     "number": 78
   },
   {
-    "name": "slowpoke",
+    "name": "Slowpoke",
     "types": [
-      "water",
-      "psychic"
+      "Water",
+      "Psychic"
     ],
     "stats": {
       "hp": 90,
@@ -1221,10 +1221,10 @@
     "number": 79
   },
   {
-    "name": "slowbro",
+    "name": "Slowbro",
     "types": [
-      "water",
-      "psychic"
+      "Water",
+      "Psychic"
     ],
     "stats": {
       "hp": 95,
@@ -1237,10 +1237,10 @@
     "number": 80
   },
   {
-    "name": "magnemite",
+    "name": "Magnemite",
     "types": [
-      "electric",
-      "steel"
+      "Electric",
+      "Steel"
     ],
     "stats": {
       "hp": 25,
@@ -1253,10 +1253,10 @@
     "number": 81
   },
   {
-    "name": "magneton",
+    "name": "Magneton",
     "types": [
-      "electric",
-      "steel"
+      "Electric",
+      "Steel"
     ],
     "stats": {
       "hp": 50,
@@ -1269,10 +1269,10 @@
     "number": 82
   },
   {
-    "name": "farfetchd",
+    "name": "Farfetchd",
     "types": [
-      "normal",
-      "flying"
+      "Normal",
+      "Flying"
     ],
     "stats": {
       "hp": 52,
@@ -1285,10 +1285,10 @@
     "number": 83
   },
   {
-    "name": "doduo",
+    "name": "Doduo",
     "types": [
-      "normal",
-      "flying"
+      "Normal",
+      "Flying"
     ],
     "stats": {
       "hp": 35,
@@ -1301,10 +1301,10 @@
     "number": 84
   },
   {
-    "name": "dodrio",
+    "name": "Dodrio",
     "types": [
-      "normal",
-      "flying"
+      "Normal",
+      "Flying"
     ],
     "stats": {
       "hp": 60,
@@ -1317,9 +1317,9 @@
     "number": 85
   },
   {
-    "name": "seel",
+    "name": "Seel",
     "types": [
-      "water"
+      "Water"
     ],
     "stats": {
       "hp": 65,
@@ -1332,10 +1332,10 @@
     "number": 86
   },
   {
-    "name": "dewgong",
+    "name": "Dewgong",
     "types": [
-      "water",
-      "ice"
+      "Water",
+      "Ice"
     ],
     "stats": {
       "hp": 90,
@@ -1348,9 +1348,9 @@
     "number": 87
   },
   {
-    "name": "grimer",
+    "name": "Grimer",
     "types": [
-      "poison"
+      "Poison"
     ],
     "stats": {
       "hp": 80,
@@ -1363,9 +1363,9 @@
     "number": 88
   },
   {
-    "name": "muk",
+    "name": "Muk",
     "types": [
-      "poison"
+      "Poison"
     ],
     "stats": {
       "hp": 105,
@@ -1378,9 +1378,9 @@
     "number": 89
   },
   {
-    "name": "shellder",
+    "name": "Shellder",
     "types": [
-      "water"
+      "Water"
     ],
     "stats": {
       "hp": 30,
@@ -1393,10 +1393,10 @@
     "number": 90
   },
   {
-    "name": "cloyster",
+    "name": "Cloyster",
     "types": [
-      "water",
-      "ice"
+      "Water",
+      "Ice"
     ],
     "stats": {
       "hp": 50,
@@ -1409,10 +1409,10 @@
     "number": 91
   },
   {
-    "name": "gastly",
+    "name": "Gastly",
     "types": [
-      "ghost",
-      "poison"
+      "Ghost",
+      "Poison"
     ],
     "stats": {
       "hp": 30,
@@ -1425,10 +1425,10 @@
     "number": 92
   },
   {
-    "name": "haunter",
+    "name": "Haunter",
     "types": [
-      "ghost",
-      "poison"
+      "Ghost",
+      "Poison"
     ],
     "stats": {
       "hp": 45,
@@ -1441,10 +1441,10 @@
     "number": 93
   },
   {
-    "name": "gengar",
+    "name": "Gengar",
     "types": [
-      "ghost",
-      "poison"
+      "Ghost",
+      "Poison"
     ],
     "stats": {
       "hp": 60,
@@ -1457,10 +1457,10 @@
     "number": 94
   },
   {
-    "name": "onix",
+    "name": "Onix",
     "types": [
-      "rock",
-      "ground"
+      "Rock",
+      "Ground"
     ],
     "stats": {
       "hp": 35,
@@ -1473,9 +1473,9 @@
     "number": 95
   },
   {
-    "name": "drowzee",
+    "name": "Drowzee",
     "types": [
-      "psychic"
+      "Psychic"
     ],
     "stats": {
       "hp": 60,
@@ -1488,9 +1488,9 @@
     "number": 96
   },
   {
-    "name": "hypno",
+    "name": "Hypno",
     "types": [
-      "psychic"
+      "Psychic"
     ],
     "stats": {
       "hp": 85,
@@ -1503,9 +1503,9 @@
     "number": 97
   },
   {
-    "name": "krabby",
+    "name": "Krabby",
     "types": [
-      "water"
+      "Water"
     ],
     "stats": {
       "hp": 30,
@@ -1518,9 +1518,9 @@
     "number": 98
   },
   {
-    "name": "kingler",
+    "name": "Kingler",
     "types": [
-      "water"
+      "Water"
     ],
     "stats": {
       "hp": 55,
@@ -1533,9 +1533,9 @@
     "number": 99
   },
   {
-    "name": "voltorb",
+    "name": "Voltorb",
     "types": [
-      "electric"
+      "Electric"
     ],
     "stats": {
       "hp": 40,
@@ -1548,9 +1548,9 @@
     "number": 100
   },
   {
-    "name": "electrode",
+    "name": "Electrode",
     "types": [
-      "electric"
+      "Electric"
     ],
     "stats": {
       "hp": 60,
@@ -1563,10 +1563,10 @@
     "number": 101
   },
   {
-    "name": "exeggcute",
+    "name": "Exeggcute",
     "types": [
-      "grass",
-      "psychic"
+      "Grass",
+      "Psychic"
     ],
     "stats": {
       "hp": 60,
@@ -1579,10 +1579,10 @@
     "number": 102
   },
   {
-    "name": "exeggutor",
+    "name": "Exeggutor",
     "types": [
-      "grass",
-      "psychic"
+      "Grass",
+      "Psychic"
     ],
     "stats": {
       "hp": 95,
@@ -1595,9 +1595,9 @@
     "number": 103
   },
   {
-    "name": "cubone",
+    "name": "Cubone",
     "types": [
-      "ground"
+      "Ground"
     ],
     "stats": {
       "hp": 50,
@@ -1610,9 +1610,9 @@
     "number": 104
   },
   {
-    "name": "marowak",
+    "name": "Marowak",
     "types": [
-      "ground"
+      "Ground"
     ],
     "stats": {
       "hp": 60,
@@ -1625,9 +1625,9 @@
     "number": 105
   },
   {
-    "name": "hitmonlee",
+    "name": "Hitmonlee",
     "types": [
-      "fighting"
+      "Fighting"
     ],
     "stats": {
       "hp": 50,
@@ -1640,9 +1640,9 @@
     "number": 106
   },
   {
-    "name": "hitmonchan",
+    "name": "Hitmonchan",
     "types": [
-      "fighting"
+      "Fighting"
     ],
     "stats": {
       "hp": 50,
@@ -1655,9 +1655,9 @@
     "number": 107
   },
   {
-    "name": "lickitung",
+    "name": "Lickitung",
     "types": [
-      "normal"
+      "Normal"
     ],
     "stats": {
       "hp": 90,
@@ -1670,9 +1670,9 @@
     "number": 108
   },
   {
-    "name": "koffing",
+    "name": "Koffing",
     "types": [
-      "poison"
+      "Poison"
     ],
     "stats": {
       "hp": 40,
@@ -1685,9 +1685,9 @@
     "number": 109
   },
   {
-    "name": "weezing",
+    "name": "Weezing",
     "types": [
-      "poison"
+      "Poison"
     ],
     "stats": {
       "hp": 65,
@@ -1700,10 +1700,10 @@
     "number": 110
   },
   {
-    "name": "rhyhorn",
+    "name": "Rhyhorn",
     "types": [
-      "ground",
-      "rock"
+      "Ground",
+      "Rock"
     ],
     "stats": {
       "hp": 80,
@@ -1716,10 +1716,10 @@
     "number": 111
   },
   {
-    "name": "rhydon",
+    "name": "Rhydon",
     "types": [
-      "ground",
-      "rock"
+      "Ground",
+      "Rock"
     ],
     "stats": {
       "hp": 105,
@@ -1732,9 +1732,9 @@
     "number": 112
   },
   {
-    "name": "chansey",
+    "name": "Chansey",
     "types": [
-      "normal"
+      "Normal"
     ],
     "stats": {
       "hp": 250,
@@ -1747,9 +1747,9 @@
     "number": 113
   },
   {
-    "name": "tangela",
+    "name": "Tangela",
     "types": [
-      "grass"
+      "Grass"
     ],
     "stats": {
       "hp": 65,
@@ -1762,9 +1762,9 @@
     "number": 114
   },
   {
-    "name": "kangaskhan",
+    "name": "Kangaskhan",
     "types": [
-      "normal"
+      "Normal"
     ],
     "stats": {
       "hp": 105,
@@ -1777,9 +1777,9 @@
     "number": 115
   },
   {
-    "name": "horsea",
+    "name": "Horsea",
     "types": [
-      "water"
+      "Water"
     ],
     "stats": {
       "hp": 30,
@@ -1792,9 +1792,9 @@
     "number": 116
   },
   {
-    "name": "seadra",
+    "name": "Seadra",
     "types": [
-      "water"
+      "Water"
     ],
     "stats": {
       "hp": 55,
@@ -1807,9 +1807,9 @@
     "number": 117
   },
   {
-    "name": "goldeen",
+    "name": "Goldeen",
     "types": [
-      "water"
+      "Water"
     ],
     "stats": {
       "hp": 45,
@@ -1822,9 +1822,9 @@
     "number": 118
   },
   {
-    "name": "seaking",
+    "name": "Seaking",
     "types": [
-      "water"
+      "Water"
     ],
     "stats": {
       "hp": 80,
@@ -1837,9 +1837,9 @@
     "number": 119
   },
   {
-    "name": "staryu",
+    "name": "Staryu",
     "types": [
-      "water"
+      "Water"
     ],
     "stats": {
       "hp": 30,
@@ -1852,10 +1852,10 @@
     "number": 120
   },
   {
-    "name": "starmie",
+    "name": "Starmie",
     "types": [
-      "water",
-      "psychic"
+      "Water",
+      "Psychic"
     ],
     "stats": {
       "hp": 60,
@@ -1868,10 +1868,10 @@
     "number": 121
   },
   {
-    "name": "mr-mime",
+    "name": "Mr-mime",
     "types": [
-      "psychic",
-      "fairy"
+      "Psychic",
+      "Fairy"
     ],
     "stats": {
       "hp": 40,
@@ -1884,10 +1884,10 @@
     "number": 122
   },
   {
-    "name": "scyther",
+    "name": "Scyther",
     "types": [
-      "bug",
-      "flying"
+      "Bug",
+      "Flying"
     ],
     "stats": {
       "hp": 70,
@@ -1900,10 +1900,10 @@
     "number": 123
   },
   {
-    "name": "jynx",
+    "name": "Jynx",
     "types": [
-      "ice",
-      "psychic"
+      "Ice",
+      "Psychic"
     ],
     "stats": {
       "hp": 65,
@@ -1916,9 +1916,9 @@
     "number": 124
   },
   {
-    "name": "electabuzz",
+    "name": "Electabuzz",
     "types": [
-      "electric"
+      "Electric"
     ],
     "stats": {
       "hp": 65,
@@ -1931,9 +1931,9 @@
     "number": 125
   },
   {
-    "name": "magmar",
+    "name": "Magmar",
     "types": [
-      "fire"
+      "Fire"
     ],
     "stats": {
       "hp": 65,
@@ -1946,9 +1946,9 @@
     "number": 126
   },
   {
-    "name": "pinsir",
+    "name": "Pinsir",
     "types": [
-      "bug"
+      "Bug"
     ],
     "stats": {
       "hp": 65,
@@ -1961,9 +1961,9 @@
     "number": 127
   },
   {
-    "name": "tauros",
+    "name": "Tauros",
     "types": [
-      "normal"
+      "Normal"
     ],
     "stats": {
       "hp": 75,
@@ -1976,9 +1976,9 @@
     "number": 128
   },
   {
-    "name": "magikarp",
+    "name": "Magikarp",
     "types": [
-      "water"
+      "Water"
     ],
     "stats": {
       "hp": 20,
@@ -1991,10 +1991,10 @@
     "number": 129
   },
   {
-    "name": "gyarados",
+    "name": "Gyarados",
     "types": [
-      "water",
-      "flying"
+      "Water",
+      "Flying"
     ],
     "stats": {
       "hp": 95,
@@ -2007,10 +2007,10 @@
     "number": 130
   },
   {
-    "name": "lapras",
+    "name": "Lapras",
     "types": [
-      "water",
-      "ice"
+      "Water",
+      "Ice"
     ],
     "stats": {
       "hp": 130,
@@ -2023,9 +2023,9 @@
     "number": 131
   },
   {
-    "name": "ditto",
+    "name": "Ditto",
     "types": [
-      "normal"
+      "Normal"
     ],
     "stats": {
       "hp": 48,
@@ -2038,9 +2038,9 @@
     "number": 132
   },
   {
-    "name": "eevee",
+    "name": "Eevee",
     "types": [
-      "normal"
+      "Normal"
     ],
     "stats": {
       "hp": 55,
@@ -2053,9 +2053,9 @@
     "number": 133
   },
   {
-    "name": "vaporeon",
+    "name": "Vaporeon",
     "types": [
-      "water"
+      "Water"
     ],
     "stats": {
       "hp": 130,
@@ -2068,9 +2068,9 @@
     "number": 134
   },
   {
-    "name": "jolteon",
+    "name": "Jolteon",
     "types": [
-      "electric"
+      "Electric"
     ],
     "stats": {
       "hp": 65,
@@ -2083,9 +2083,9 @@
     "number": 135
   },
   {
-    "name": "flareon",
+    "name": "Flareon",
     "types": [
-      "fire"
+      "Fire"
     ],
     "stats": {
       "hp": 65,
@@ -2098,9 +2098,9 @@
     "number": 136
   },
   {
-    "name": "porygon",
+    "name": "Porygon",
     "types": [
-      "normal"
+      "Normal"
     ],
     "stats": {
       "hp": 65,
@@ -2113,10 +2113,10 @@
     "number": 137
   },
   {
-    "name": "omanyte",
+    "name": "Omanyte",
     "types": [
-      "rock",
-      "water"
+      "Rock",
+      "Water"
     ],
     "stats": {
       "hp": 35,
@@ -2129,10 +2129,10 @@
     "number": 138
   },
   {
-    "name": "omastar",
+    "name": "Omastar",
     "types": [
-      "rock",
-      "water"
+      "Rock",
+      "Water"
     ],
     "stats": {
       "hp": 70,
@@ -2145,10 +2145,10 @@
     "number": 139
   },
   {
-    "name": "kabuto",
+    "name": "Kabuto",
     "types": [
-      "rock",
-      "water"
+      "Rock",
+      "Water"
     ],
     "stats": {
       "hp": 30,
@@ -2161,10 +2161,10 @@
     "number": 140
   },
   {
-    "name": "kabutops",
+    "name": "Kabutops",
     "types": [
-      "rock",
-      "water"
+      "Rock",
+      "Water"
     ],
     "stats": {
       "hp": 60,
@@ -2177,10 +2177,10 @@
     "number": 141
   },
   {
-    "name": "aerodactyl",
+    "name": "Aerodactyl",
     "types": [
-      "rock",
-      "flying"
+      "Rock",
+      "Flying"
     ],
     "stats": {
       "hp": 80,
@@ -2193,9 +2193,9 @@
     "number": 142
   },
   {
-    "name": "snorlax",
+    "name": "Snorlax",
     "types": [
-      "normal"
+      "Normal"
     ],
     "stats": {
       "hp": 160,
@@ -2208,10 +2208,10 @@
     "number": 143
   },
   {
-    "name": "articuno",
+    "name": "Articuno",
     "types": [
-      "ice",
-      "flying"
+      "Ice",
+      "Flying"
     ],
     "stats": {
       "hp": 90,
@@ -2224,10 +2224,10 @@
     "number": 144
   },
   {
-    "name": "zapdos",
+    "name": "Zapdos",
     "types": [
-      "electric",
-      "flying"
+      "Electric",
+      "Flying"
     ],
     "stats": {
       "hp": 90,
@@ -2240,10 +2240,10 @@
     "number": 145
   },
   {
-    "name": "moltres",
+    "name": "Moltres",
     "types": [
-      "fire",
-      "flying"
+      "Fire",
+      "Flying"
     ],
     "stats": {
       "hp": 90,
@@ -2256,9 +2256,9 @@
     "number": 146
   },
   {
-    "name": "dratini",
+    "name": "Dratini",
     "types": [
-      "dragon"
+      "Dragon"
     ],
     "stats": {
       "hp": 41,
@@ -2271,9 +2271,9 @@
     "number": 147
   },
   {
-    "name": "dragonair",
+    "name": "Dragonair",
     "types": [
-      "dragon"
+      "Dragon"
     ],
     "stats": {
       "hp": 61,
@@ -2286,10 +2286,10 @@
     "number": 148
   },
   {
-    "name": "dragonite",
+    "name": "Dragonite",
     "types": [
-      "dragon",
-      "flying"
+      "Dragon",
+      "Flying"
     ],
     "stats": {
       "hp": 91,
@@ -2302,9 +2302,9 @@
     "number": 149
   },
   {
-    "name": "mewtwo",
+    "name": "Mewtwo",
     "types": [
-      "psychic"
+      "Psychic"
     ],
     "stats": {
       "hp": 106,
@@ -2317,9 +2317,9 @@
     "number": 150
   },
   {
-    "name": "mew",
+    "name": "Mew",
     "types": [
-      "psychic"
+      "Psychic"
     ],
     "stats": {
       "hp": 100,
