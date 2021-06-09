@@ -25,9 +25,22 @@
           {%for type in datum["types"]%}
           <span">{{type}}</span>
           {%endfor%}
-        </p>
-          <h6>Stats</h6>
-          <p>{{datum["stats"]}}</p>
+          </p>
+          <h5>Stats</h5>
+          <div class="container">
+            <div class="row">
+              <div class="col">Hp: {{datum["stats"]["hp"]}}</div>
+              <div class="col">Attack: {{datum["stats"]["attack"]}}</div>
+              <div class="col">Defence: {{datum["stats"]["defense"]}}</div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col">Speed: {{datum["stats"]["speed"]}}</div>
+              <div class="col">Sp. Atk: {{datum["stats"]["special-attack"]}}</div>
+              <div class="col">Sp. Def: {{datum["stats"]["special-defense"]}}</div>
+            </div>
+          </div>
         </div>
       </div>
       <!-- Card element stops here -->
