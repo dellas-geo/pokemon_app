@@ -14,7 +14,7 @@
         <div class="card-body">
           <h3 class="card-title">{{datum["name"]}}
             {%for type in datum["types"]%}
-            <img src="{{url_for('static', filename='type_images/{}.png'.format(type))}}" class="img-fluid type"
+            <img src="{{url_for('static', filename='type_images/{}.png'.format(type))}}" class="img-fluid type-image"
               alt="Type image" />
             {%endfor%}
           </h3>
