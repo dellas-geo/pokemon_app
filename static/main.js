@@ -6,7 +6,7 @@ function toggleRotate() {
 for (const span of document.querySelectorAll("span")) {
   switch (span.textContent) {
     case "Grass":
-      span.style.backgroundColor = "green";
+      span.style.backgroundColor = "mediumseagreen";
       break;
     case "Poison":
       span.style.backgroundColor = "purple";
@@ -21,7 +21,7 @@ for (const span of document.querySelectorAll("span")) {
       span.style.backgroundColor = "royalblue";
       break;
     case "Bug":
-      span.style.backgroundColor = "mediumseagreen";
+      span.style.backgroundColor = "green";
       break;
     case "Normal":
       span.style.backgroundColor = "grey";
@@ -36,7 +36,7 @@ for (const span of document.querySelectorAll("span")) {
       span.style.backgroundColor = "hotpink";
       break;
     case "Fighting":
-      span.style.backgroundColor = "sienna";
+      span.style.backgroundColor = "sandybrown";
       break;
     case "Rock":
       span.style.backgroundColor = "dimgray";

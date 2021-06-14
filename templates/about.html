@@ -2,5 +2,7 @@
 <title>About Page</title>
 {%endblock title%} {%block content%}
 <h1>Gotta catch them all!</h1>
-<img src="{{url_for('static', filename='surfing_pikachu.png')}}" alt="Surfing Pikachu image" />
+<div class="container">
+    <img src="{{url_for('static', filename='surfing_pikachu.png')}}" class="img-fluid" alt="Surfing Pikachu image" />
+</div>
 {%endblock content%}
