@@ -43,3 +43,11 @@ span {
 .card-text {
   font-size: large;
 }
+
+.col {
+  margin-bottom: 1em;
+}
+
+.col:nth-child(-n+3){
+  margin-top: 1em;
+}
