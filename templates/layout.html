@@ -11,12 +11,13 @@
   <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='main.css')}}" />
   <nav class="navbar navbar-light bg-light">
     <div class="container-fluid">
+      <img onclick="toggleRotate()" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Pokeball.PNG" alt=""
+        width="30" height="30" class="d-inline-block align-text-top rotate" id="pokeball" />
       <a class="navbar-brand" href="/">
-        <img onclick="toggleRotate()" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Pokeball.PNG" alt=""
-          width="30" height="30" class="d-inline-block align-text-top" id="pokeball" />
-        My Pokemon App!!!
+        <img id="logo" src="{{url_for('static', filename='pokemon_logo.svg.webp')}}" class="img-fluid"
+          alt="Pokemon logo">
       </a>
-      <a href="/about" type="button" class="btn btn-outline-success">About</a>
+      <a href="/about" type="button" class="btn btn-warning">About</a>
     </div>
   </nav>
   {%block title%}{%endblock%}

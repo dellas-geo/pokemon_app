@@ -48,6 +48,10 @@ span {
   margin-bottom: 1em;
 }
 
-.col:nth-child(-n+3){
+.col:nth-child(-n + 3) {
   margin-top: 1em;
+}
+
+#logo {
+  width: 15em;
 }
