@@ -7,18 +7,25 @@
     <div class="col">
       <!-- Card element starts here -->
       <div class="card">
-        <img src="https://pokeres.bastionbot.org/images/pokemon/{{datum['number']}}.png" class="card-img-top"
-          alt="Pokemon image" />
+        
+        <img
+          src="{{url_for('static', filename='pokemon_images/pokemon#{}.png'.format(datum['number']))}}"
+          class="card-img-top"
+          alt="Pokemon image"
+        />
         <hr />
         <div class="card-body">
-          <h3 class="card-title">{{datum["name"]}}
-            {%for type in datum["types"]%}
-            <img src="{{url_for('static', filename='type_images/{}.png'.format(type))}}" class="img-fluid type-image"
-              alt="Type image" />
+          <h3 class="card-title">
+            {{datum["name"]}} {%for type in datum["types"]%}
+            <img
+              src="{{url_for('static', filename='type_images/{}.png'.format(type))}}"
+              class="img-fluid type-image"
+              alt="Type image"
+            />
             {%endfor%}
           </h3>
-          <p class="card-text">Type:
-            {%for type in datum["types"]%}
+          <p class="card-text">
+            Type: {%for type in datum["types"]%}
             <span>{{type}}</span>
             {%endfor%}
           </p>
@@ -33,8 +40,12 @@
           <div class="container">
             <div class="row">
               <div class="col">Speed: {{datum["stats"]["speed"]}}</div>
-              <div class="col">Sp. Atk: {{datum["stats"]["special-attack"]}}</div>
-              <div class="col">Sp. Def: {{datum["stats"]["special-defense"]}}</div>
+              <div class="col">
+                Sp. Atk: {{datum["stats"]["special-attack"]}}
+              </div>
+              <div class="col">
+                Sp. Def: {{datum["stats"]["special-defense"]}}
+              </div>
             </div>
           </div>
         </div>
