@@ -4,54 +4,64 @@
 <div class="container">
   <div class="row row-cols-3">
     {%for datum in data%}
-    <div class="col">
-      <!-- Card element starts here -->
-      <div class="card">
-        
-        <img
-          src="{{url_for('static', filename='pokemon_images/pokemon#{}.png'.format(datum['number']))}}"
-          class="card-img-top"
-          alt="Pokemon image"
-        />
-        <hr />
-        <div class="card-body">
-          <h3 class="card-title">
-            {{datum["name"]}} {%for type in datum["types"]%}
+    <ul class="row wrapper">
+      <li>
+        <div class="col front">
+          <!-- Card element starts here -->
+          <div class="card">
             <img
-              src="{{url_for('static', filename='type_images/{}.png'.format(type))}}"
-              class="img-fluid type-image"
-              alt="Type image"
+              src="{{url_for('static', filename='pokemon_images/pokemon#{}.png'.format(datum['number']))}}"
+              class="card-img-top"
+              alt="Pokemon image"
             />
-            {%endfor%}
-          </h3>
-          <p class="card-text">
-            Type: {%for type in datum["types"]%}
-            <span>{{type}}</span>
-            {%endfor%}
-          </p>
-          <h5>Stats</h5>
-          <div class="container">
-            <div class="row">
-              <div class="col">Hp: {{datum["stats"]["hp"]}}</div>
-              <div class="col">Attack: {{datum["stats"]["attack"]}}</div>
-              <div class="col">Defence: {{datum["stats"]["defense"]}}</div>
+            <hr />
+            <div class="card-body">
+              <h3 class="card-title">
+                {{datum["name"]}} {%for type in datum["types"]%}
+                <img
+                  src="{{url_for('static', filename='type_images/{}.png'.format(type))}}"
+                  class="img-fluid type-image"
+                  alt="Pokemon type image"
+                />
+                {%endfor%}
+              </h3>
+              <p class="card-text">
+                Type: {%for type in datum["types"]%}
+                <span>{{type}}</span>
+                {%endfor%}
+              </p>
+              <h5>Stats</h5>
+              <div class="container">
+                <div class="row">
+                  <div class="col">Hp: {{datum["stats"]["hp"]}}</div>
+                  <div class="col">Attack: {{datum["stats"]["attack"]}}</div>
+                  <div class="col">Defence: {{datum["stats"]["defense"]}}</div>
+                </div>
+              </div>
+              <div class="container">
+                <div class="row">
+                  <div class="col">Speed: {{datum["stats"]["speed"]}}</div>
+                  <div class="col">
+                    Sp. Atk: {{datum["stats"]["special-attack"]}}
+                  </div>
+                  <div class="col">
+                    Sp. Def: {{datum["stats"]["special-defense"]}}
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
-          <div class="container">
-            <div class="row">
-              <div class="col">Speed: {{datum["stats"]["speed"]}}</div>
-              <div class="col">
-                Sp. Atk: {{datum["stats"]["special-attack"]}}
-              </div>
-              <div class="col">
-                Sp. Def: {{datum["stats"]["special-defense"]}}
-              </div>
-            </div>
-          </div>
+          <!-- Card element stops here -->
         </div>
-      </div>
-      <!-- Card element stops here -->
-    </div>
+        <div class="col back">
+          <img
+            src="{{url_for('static', filename='pokemon_card_backside.png')}}"
+            class="card-img-top"
+            alt="Card backside image"
+          />
+        </div>
+      </li>
+    </ul>
     {%endfor%} {%endblock content%}
   </div>
 </div>

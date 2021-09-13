@@ -13,6 +13,7 @@ span {
   border-top-right-radius: 8px;
 }
 
+/*Spinning pokeball code*/
 .rotate {
   -webkit-animation: spin 8s linear infinite;
   -moz-animation: spin 8s linear infinite;
@@ -54,4 +55,37 @@ span {
 
 #logo {
   width: 15em;
+}
+
+ul {
+  list-style-type: none; /*Removes the bullets from the ordered list */
+}
+
+/*Flipping card code*/
+.wrapper {
+  position: relative;
+}
+
+div.back {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 10px 10px;
+  transform: rotateY(90deg);
+}
+
+li:hover .front {
+  animation: cardFlip 0.2s ease-in forwards;
+}
+li:hover .back {
+  animation: cardFlip 0.2s 0.2s ease-out forwards reverse;
+}
+
+@keyframes cardFlip {
+  0% {
+    transform: rotateY(0deg);
+  }
+  100% {
+    transform: rotateY(90deg);
+  }
 }
